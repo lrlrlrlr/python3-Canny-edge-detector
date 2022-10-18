@@ -1,11 +1,12 @@
 # Canny edge detector (python3)
 
-Implementation of the Canny edge detector in Python3 using numpy, PIL and matplotlib.
+Implementation of the Canny edge detector in Python3 using numpy, PIL and matplotlib. Special thanks to @[sebasvega95](https://github.com/sebasvega95).
 
-###**Quick start**
+### Quick start
 - Run the script
     ```
      $ python3 edge_detector.py valve.png
     ```
-- Output
+- Output  
   ![img.png](valve_output.png)
+  
